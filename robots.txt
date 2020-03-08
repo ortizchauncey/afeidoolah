@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iesohvahsh.via-jpn.com/sitemap.xml
